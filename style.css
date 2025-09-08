@@ -26,6 +26,10 @@ html {
 
 body {
   font-family: var(--font-main);
+  font-size: 13px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.2;       /* gör raderna tätare (default ~1.6) */
+  letter-spacing: -0.3px; /* drar ihop bokstäverna lite */
   background: var(--bg);
   color: #333;
   text-align: center;
